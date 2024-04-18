@@ -1,0 +1,14 @@
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.exe
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.deps.json
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.runtimeconfig.json
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.dll
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.pdb
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.dll
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\refint\Module2CodingChallenge.dll
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.pdb
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.genruntimeconfig.cache
+C:\Users\Jacob\source\repos\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\ref\Module2CodingChallenge.dll
